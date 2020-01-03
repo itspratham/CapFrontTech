@@ -3,7 +3,7 @@ Assignment Problem
 
 Requisite
 
-django==2.1
+django==3.x
 
 djangorestframework==3.9.0
 
