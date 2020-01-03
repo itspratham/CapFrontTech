@@ -4,7 +4,7 @@ from django.http.response import HttpResponse
 import json
 import datetime
 from .models import Employees, DepartmentEmployee, Salary, Titles, Departments
-from .ModelController import ModelController
+from .models1 import ModelController
 
 # Create your views here.
 
